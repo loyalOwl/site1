@@ -1,0 +1,3 @@
+Video background plugin — blakewilson/vidbg
+Parallax plugin — dixonandmoe.com/rellax
+Animation — michalsnik.github.io/aos/
